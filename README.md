@@ -1,2 +1,6 @@
 # SW7-WI
-WI 
+WI mangler:
+gem i en fil!
+normalization
+Jaccard
+
